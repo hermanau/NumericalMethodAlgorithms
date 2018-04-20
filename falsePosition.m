@@ -49,6 +49,6 @@ for n = 1:maxiter
 end
 %Display function outputs
 root = xr;
-fx = func(xr);
+fx = func(x);
 ea = err;
 iter = count;
